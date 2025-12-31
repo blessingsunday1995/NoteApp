@@ -13,7 +13,7 @@ This app fulfills all technical assignment requirements:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/NotesApp.git
+   ggit@github.com:blessingsunday1995/NoteApp.git
    cd NotesApp
    ```
 
